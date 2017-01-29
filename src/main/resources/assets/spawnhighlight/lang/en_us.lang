@@ -1,0 +1,7 @@
+spawnhighlight.key.visible = Toggle spawn highlight
+
+spawnhighlight.config.title = Spawn Highlight configuration
+spawnhighlight.config.option.visible = Visible
+spawnhighlight.config.option.topmost = Topmost
+spawnhighlight.config.option.antialias = Anti-alias
+spawnhighlight.config.option.skylight = Skylight
